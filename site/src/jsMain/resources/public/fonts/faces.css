@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Gumela';
+  src: url('/fonts/caros/caros_bold.otf') format('opentype'),
+       url('/fonts/caros/regular_caros.otf') format('opentype'),
+       url('/fonts/caros/caros_light.otf') format('opentype'),
+       url('/fonts/caros/caros_medium.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Caros';
+  src: url('/fonts/caros/caros_light.otf') format('opentype');
+  font-weight: light;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Caros';
+  src: url('/fonts/caros/regular_caros.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Caros';
+  src: url('/fonts/caros/caros_medium.otf') format('opentype');
+  font-weight: medium;
+  font-style: normal;
+}
