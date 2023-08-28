@@ -46,7 +46,7 @@ kobweb {
     app {
         index {
             head.add {
-                link("/android.svg", rel = "icon")
+                link("images/android.svg", rel = "icon")
                 link(rel = "stylesheet", href = "/fonts/faces.css")
             }
         }
